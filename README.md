@@ -61,6 +61,4 @@
 
 <img src="https://raw.githubusercontent.com/kaynanxd/kaynanxd/output/snake.svg" alt="Snake animation" />
 
-![snake animation](https://github.com/<kaynanxd>/<kaynanxd>/blob/output/github-contribution-grid-snake2.svg)
-
 ###
